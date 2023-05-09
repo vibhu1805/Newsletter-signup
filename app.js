@@ -56,7 +56,3 @@ app.post("/failure",function(request,response){
 app.listen(process.env.PORT || 3000, function () {
   console.log("Server is running");
 });
-//API KEY
-//bd9e98857cf890d051637e22b4e1bed2-us12
-//Audience KEY 
-//634259db7f
